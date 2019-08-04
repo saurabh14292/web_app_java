@@ -24,4 +24,4 @@ hs_err_pid*
 
 #Added as custom
 .settings
-target/*
+**/target/*
