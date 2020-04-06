@@ -8,6 +8,10 @@
   
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	<sonar.projectKey>saurabh14292_web_app_java</sonar.projectKey>
+    <sonar.organization>saurabh14292</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    <sonar.login>13403149fb24115675b591e29b01f1620894d01d</sonar.login>
   </properties>
   
   <distributionManagement>
