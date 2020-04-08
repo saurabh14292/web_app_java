@@ -8,6 +8,9 @@ on:
     branches:
     - master
     - release/*
+  pull_request:
+    branches: 
+      - feature/*
 
 jobs:
   publish:
