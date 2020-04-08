@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>idevops</groupId>
   <artifactId>webapp0</artifactId>
-  <version>1.0</version>
+  <version>1.0.1</version>
   <packaging>war</packaging>
   <name>webapp0</name>
   
