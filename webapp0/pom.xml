@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>idevops</groupId>
   <artifactId>webapp0</artifactId>
-  <version>1.0-SNAPSHOT </version>
+  <version>1.0 </version>
   <packaging>war</packaging>
   <name>webapp0</name>
   
@@ -20,6 +20,7 @@
   <scm>
 	<connection>scm:git:https://saurabh14292@github.com/web_app_java.git</connection>
     <developerConnection>scm:git:https://saurabh14292@github.com/web_app_java.git</developerConnection>
+    <tag>1.0</tag>
   </scm>
   
   <distributionManagement>
