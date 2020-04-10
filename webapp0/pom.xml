@@ -18,8 +18,9 @@
   </properties>
   
   <scm>
-	<connection>scm:git:https://saurabh14292@github.com/web_app_java.git</connection>
-    <developerConnection>scm:git:https://saurabh14292@github.com/web_app_java.git</developerConnection>
+	<connection>scm:git:https://github.com/saurabh14292/web_app_java.git</connection>
+	<developerConnection>scm:git:ssh://git@github.com/saurabh14292/web_app_java.git</developerConnection>
+	<url>https://github.com/saurabh14292/web_app_java</url>
   </scm>
   
   <distributionManagement>
